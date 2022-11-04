@@ -1,5 +1,5 @@
 # 🚀 Count-Down 👨🏻‍🚀
 
 
-![Count Down - Google Chrome 2022-11-04 14-24-35](https://user-images.githubusercontent.com/89953265/200039666-17533a65-4cfc-43fe-a0da-57ea9581e650.gif)
+![Count Down](https://user-images.githubusercontent.com/89953265/200045444-3ab8d12c-5932-4c88-8eb3-b1d66bd0c9a7.gif)
 
