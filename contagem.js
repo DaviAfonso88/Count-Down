@@ -40,12 +40,14 @@ var contagemRegressiva = (tempo) =>{
     
     
 }
-var tempoRestante = (function(hoje, dataEvento){
+var tempoRestante = () => {
     var dataEvento = new Date ('2022-11-05 20:00:00');
     var hoje = Date.now();
     return Math.floor((dataEvento - hoje) / 1000);
+}
+ 
 
-})
+
 
 // contagemRegressiva(tempoRestante());
 

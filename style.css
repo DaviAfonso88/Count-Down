@@ -39,11 +39,13 @@ body{
 
 .countdown h1{
     font-size: calc(10px + 8vw);
-    text-shadow: 0 0 10px  whitesmoke;
+    text-shadow: 0 0 15px  whitesmoke;
 }
+
 
 .button button{
     width: 250px;
+    transform: translateY(8px);
 }
 
 .start-btn{
@@ -61,7 +63,8 @@ body{
     box-shadow: 0 9px #999;
     background-color: #3e8e41;
     box-shadow: 0 5px #666;
-    transform: translateY(4px);
+    transform: translateY(8px);
+    
 }
 
 .stop-btn{
