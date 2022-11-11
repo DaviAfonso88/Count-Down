@@ -1,10 +1,10 @@
 # 🚀 Count-Down 👨🏻‍🚀
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Daviafonso88/JQuery-js)
-![GitHub language count](https://img.shields.io/github/languages/count/Daviafonso88/JQuery-js)
-![GitHub forks](https://img.shields.io/github/forks/Daviafonso88/JQuery-js)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Daviafonso88/JQuery-js)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Daviafonso88/JQuery-js)
+![GitHub repo size](https://img.shields.io/github/repo-size/Daviafonso88/Count-Down)
+![GitHub language count](https://img.shields.io/github/languages/count/Daviafonso88/Count-Down)
+![GitHub forks](https://img.shields.io/github/forks/Daviafonso88/Count-Down)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Daviafonso88/Count-Down)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Daviafonso88/Count-Down)
 
 ![Count Down](https://user-images.githubusercontent.com/89953265/200878522-d0cd89e8-dd2e-437c-806b-26d1024bfbef.gif)
  <img align="rigth" alt="DaviAfonso88-JavaScript" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
