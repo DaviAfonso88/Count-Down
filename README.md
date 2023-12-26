@@ -27,9 +27,7 @@
 <br>
 <br>
 
-## 🤝 Colaboradores
-
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+## 🤝 Colaborador
 
 <table>
   <tr>
